@@ -10,7 +10,7 @@ Izradite vlastitu osobnu web stranicu prema primjeru dizajna početne stranice n
 
 #### Potrebno je za sve bodove:
 
-- [ ] Kodirati HTML i CSS prema navedenom dizajnu za desktop rezoluciju
+- [x] Kodirati HTML i CSS prema navedenom dizajnu za desktop rezoluciju
 - [ ]  Potrebno je dodatno nadograditi HTML i CSS kako bi stranica bila responzivnu na Tablet i Mobile rezolucijama sa svim gore navedenim elementima u dizajnu (Media Query)
 - [ ] Optimizirati stranicu - optimizirati slike, ubaciti lazyload, koristiti različite slike na desktop i mobile rezolucijama (Testirat će se putem Google Speed Testa)
 - [ ] Prilagoditi HTML kod da odgovara SEO značajkama
